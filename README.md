@@ -1,2 +1,34 @@
-# f83d3052-ecommerce-shopify-onboarding
-Stop missing messages, manually responding to routine requests at all hours. Start automated monitoring and response around the clock.  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Ecommerce &amp; Shopify Onboarding And Welcome Fl
+# eCommerce & Shopify Onboarding and Welcome Flow Discord Bot
+
+Guided onboarding, role selection, channel tours, and first-week engagement tracking. First impressions that make members stay.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZueVd26HaQA7BCavOcZM0G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZueVd26HaQA7BCavOcZM0G)
+
